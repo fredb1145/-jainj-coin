@@ -2,10 +2,6 @@
 Solana-based Defi utility token bridging startups, professionals, and humanitarian networks.
 # 🪙 $JAINJ — Bridging Impact, Commerce, and Blockchain  
 
-# 🪙 $JAINJ — Bridging Impact, Commerce, and Blockchain  
-
-# 🪙 $JAINJ — Bridging Impact, Commerce, and Blockchain  
-
 ## 🌍 Overview  
 **$JAINJ** is a **utility-driven cryptocurrency built on the Solana blockchain**.  
 It connects **startups, professionals, and humanitarian networks** in one transparent ecosystem — enabling borderless, traceable, and inclusive financial interactions worldwide.  
@@ -50,7 +46,6 @@ A **dual-impact ecosystem** merging profit and purpose — driving mass crypto a
 
 ## 🪐 Built On  
 - **Blockchain:** Solana  
-- **DEX Integration:** Raydium  
 - **Token Type:** SPL  
 - **Status:** Presale / Community Growth Stage  
 
