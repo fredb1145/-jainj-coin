@@ -55,7 +55,7 @@ A **dual-impact ecosystem** merging profit and purpose — driving mass crypto a
 Developers, NGOs, and innovators are welcome to collaborate.  
 Fork this repo, open issues, or share feedback to strengthen the $JAINJ ecosystem.  
 
-> Contributions are reviewed by **Gotland Labs** to maintain transparency and project integrity.  
+> Contributions are reviewed by **jainj** to maintain transparency and project integrity.  
 
 ---
 
